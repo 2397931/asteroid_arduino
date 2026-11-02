@@ -1,0 +1,113 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino",
+                "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/Bounce2/src",
+                "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/Chrono/src",
+                "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/MicroOsc/src",
+                "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/MicroSlip/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/tinyusb",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/api/deprecated",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/api/deprecated-avr-comp",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/variants/NANOR4",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/AnalogWave",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Arduino_CAN/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Arduino_FreeRTOS/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Arduino_LED_Matrix/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/BlockDevices",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/EEPROM/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/FATFilesystem",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/HID",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/I2S",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/LittleFilesystem",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/OPAMP/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/OTAUpdate/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Preferences/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/RTC/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SDU/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SPI",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SoftwareATSE/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SoftwareSerial/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Storage",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/WDT/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/WiFiS3/src",
+                "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Wire",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino",
+                    "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/Bounce2/src",
+                    "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/Chrono/src",
+                    "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/MicroOsc/src",
+                    "C:/Users/tiisa/OneDrive - Collège Montmorency/Documents/asteroid_arduino/.pio/libdeps/nano_r4/MicroSlip/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/tinyusb",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/api/deprecated",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/cores/arduino/api/deprecated-avr-comp",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/variants/NANOR4",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/AnalogWave",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Arduino_CAN/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Arduino_FreeRTOS/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Arduino_LED_Matrix/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/BlockDevices",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/EEPROM/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/FATFilesystem",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/HID",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/I2S",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/LittleFilesystem",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/OPAMP/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/OTAUpdate/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Preferences/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/RTC/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SDU/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SPI",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SoftwareATSE/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/SoftwareSerial/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Storage",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/WDT/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/WiFiS3/src",
+                    "C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/libraries/Wire",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60200",
+                "ARDUINO_MINIMA",
+                "ARDUINO_NANOR4",
+                "ARDUINO_ARCH_RENESAS_UNO",
+                "CFG_TUSB_MCU=OPT_MCU_RAXXX",
+                "_RA_CORE=CM4",
+                "_RENESAS_RA_",
+                "ARDUINO=10810",
+                "ARDUINO_ARCH_RENESAS",
+                "ARDUINO_FSP",
+                "_XOPEN_SOURCE=700",
+                "F_CPU=48000000L",
+                ""
+            ],
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++17",
+            "compilerPath": "C:/Users/tiisa/.platformio/packages/toolchain-gccarmnoneeabi/bin/arm-none-eabi-gcc.exe",
+            "compilerArgs": [
+                "-mcpu=cortex-m4",
+                "-mfloat-abi=hard",
+                "-mfpu=fpv4-sp-d16",
+                "-mthumb",
+                "-iprefixC:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno",
+                "@C:/Users/tiisa/.platformio/packages/framework-arduinorenesas-uno/variants/NANOR4/includes.txt",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
